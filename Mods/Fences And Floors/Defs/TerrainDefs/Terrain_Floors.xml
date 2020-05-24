@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
 
    <TerrainDef Name="FAFloorBase" Abstract="True">
@@ -41,7 +41,7 @@
 		<burnedDef>FAFBurnedWoodTile</burnedDef>
 		<statBases>
 			<Beauty>-3</Beauty>
-			<WorkToBuild>40</WorkToBuild>
+			<WorkToBuild>30</WorkToBuild>
 			<Flammability>0.8</Flammability>
     </statBases>
 		<costList>
@@ -73,7 +73,7 @@
 		<statBases>
 			<Beauty>-1</Beauty>
 			<Cleanliness>0.4</Cleanliness>
-			<WorkToBuild>400</WorkToBuild>
+			<WorkToBuild>300</WorkToBuild>
 		</statBases>
 		<costList>
 		    <Plasteel>4</Plasteel>
@@ -97,7 +97,7 @@
 		<statBases>
 			<Beauty>-1</Beauty>
 			<Cleanliness>0.4</Cleanliness>
-			<WorkToBuild>400</WorkToBuild>
+			<WorkToBuild>300</WorkToBuild>
 		</statBases>
 		<costList>
 		    <Plasteel>4</Plasteel>
@@ -121,8 +121,8 @@
 		<pathCost>0</pathCost>
 		<statBases>
 		    <Cleanliness>0.8</Cleanliness>
-			<Beauty>5</Beauty>
-			<WorkToBuild>800</WorkToBuild>
+			<Beauty>6</Beauty>
+			<WorkToBuild>600</WorkToBuild>
 		</statBases>
 	    <costList>
 		    <SilverBar>5</SilverBar>
