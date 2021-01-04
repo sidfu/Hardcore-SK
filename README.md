@@ -36,13 +36,21 @@ Requirements:
 
 Download installer: http://hardcore-sk.ru/hardcore/installer/HSK-Launcher-1.6-Setup.exe
 
+It will ask for the RimWorld executable location.
+
+For Windows users:
+- Steam usually stores it in `C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64.exe`
+
 ## Manual installation:
 
 1. Go to the folder you installed the game in. (*gamefolder*)    
-Delete all mods inside your Rimworld\Mods\ folder except "Core".
+Delete all mods inside your Rimworld\Mods\ folder except "Core". (Deleteing of Core is now obsolete with rimworld version 1.1 and greater)
 
 2. Open up the downloaded Hardcore sk project .zip file.
-Extract everything in the Hardcore-SK-master\Mods\ folder into your Rimworlds\Mods\ folder, and overwrite any files if prompted.
+Extract everything in the Hardcore-SK-master\Mods\ OR Hardcore-SK-Development\Mods\ folder into your Rimworlds\Mods\ folder, and overwrite any files if prompted.
+
+Master: is the stable version/branch of the modpack usually a version behind the latest Rimworld. 
+Development: Is the unstable or work in progress version that contains the latest fixes as well as bugs but is the most compatible version of the modpack for the latest version of rimworld
 
 3. Go to:
 
@@ -77,17 +85,17 @@ ____
 <br>
 SK Team:
 <br>Main dev. - Skyarkhangel
-<br>Co-ordinator - Rhyssia, Adenia
-<br>Discord stuff - Dzeniba, Ziemens, MightyGooga, GG, Sidfu, AnotherFireFox, Flonz, Szara Kryik
+<br>Co-ordinator - Zakhad, Sidfu, Dzeniba
+<br>Discord stuff - Ziemens, SomethingCrunchy (НечтоХрустящее), MightyGooga, GG, AnotherFireFox, Flonz, Szara Kryik, Ashardalon
 <br>Artists - cattleya ( https://www.patreon.com/cattleya ), Abhay, ApelAirplane
-<br>Coders - NotFood, Void, Zachary F
-<br>XML modders - Sidfu, ArpoMo6, AndreiAvinov (Kiri), SomethingCrunchy (НечтоХрустящее) 
+<br>Coders - Jeremy(PirateBY, TGC, NotFood, Void, Zachary F
+<br>XML modders - Sidfu, ArpoMo6, AndreiAvinov (Kiri), SomethingCrunchy (НечтоХрустящее), GuardianDll, Spaniard829 
 <br>Guide Writers - Murdantiks, Adenia, Soyaman, Tombomcbombo
 <br>Translators - Rey, Ivanzyfer, FaHT1k, mora145, totobrother, Desert Rain
 <br>
 <br>
 Special Thanks to:
-<br>SpoonShortage, Mrofa, Fluffy, Zhentar, Brrainz, Dubwise, Erdelf, Fotos, Greeny, Hunt3rKill3r, Lambert2191, Vursteen, Tuvia, Dunkhan, jnkyacc, Jalordon, Varmonger, funs777, olizit, Quelling, pongvin, zachary-foster, funs777, lex1975, evgeny-k, Moon, Leiarr, Glucocorticoid, Voker57, Pardonius, Sonsalt.
+<br>SpoonShortage, Mrofa, Fluffy, Zhentar, Brrainz, Dubwise, Erdelf, Greeny, Hunt3rKill3r, Lambert2191, Vuursteen, Tuvia, Dunkhan, jnkyacc, Jalordon, Varmonger, funs777, olizit, Quelling, pongvin, zachary-foster, funs777, lex1975, evgeny-k, Moon, Leiarr, Glucocorticoid, Voker57, Pardonius, Sonsalt, Jeremy(PirateBY), TGC, qwerty19106, Rhyssia, Adenia.
 
 <br>And to anyone else we might have missed!
 <br>
