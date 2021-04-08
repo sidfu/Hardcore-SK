@@ -318,6 +318,7 @@
 	<WStatus> working</WStatus>
 	<LTStatus> low temp</LTStatus>
 	<RefuelAt>Refuel at </RefuelAt>
+	<FuelSearchDistance>Fuel search distance: </FuelSearchDistance>
 	<BurningProgress>Burning progress:</BurningProgress>
 	<FuelAmount>Fuel amount: </FuelAmount>
 	<DepletesAfter>Depletes after: </DepletesAfter>
@@ -988,6 +989,10 @@ They seem accustomed to human contact and are joining the colony.</BAWI>
 
 	<LetterLabelManhunterPackArrived>Manhunter pack</LetterLabelManhunterPackArrived>
 	<ManhunterPackArrived>A pack of man-hunting {0} have entered the area. They will roam the region, hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack turrets that are powered down, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out, or fight them.</ManhunterPackArrived>
+
+	<LetterLabelManhunterPackArrivedOld>Manhunter pack</LetterLabelManhunterPackArrivedOld>
+	<ManhunterPackArrivedOld>A pack of man-hunting {0} have entered the area. They will roam the region, hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack turrets that are powered down, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out, or fight them.</ManhunterPackArrivedOld>
+
 
 	<!-- Refugee chased -->
 	<RefugeeChasedTitle>Refugee chased at {0}</RefugeeChasedTitle>

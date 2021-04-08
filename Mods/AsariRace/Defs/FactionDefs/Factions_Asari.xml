@@ -96,21 +96,23 @@
 		<pawnGroupMakers>
 			<li>
 				<kindDef>Combat</kindDef>
-				<commonality>100</commonality>
+				<commonality>10</commonality>
 				<options>
 					<AsariEnslaver>25</AsariEnslaver>
 					<AsariHunter>20</AsariHunter>
 					<AsariOvermaster>18</AsariOvermaster>
+					<AsariWallDestroyer>4</AsariWallDestroyer>
 					<AsariSupremeAdmiral>2</AsariSupremeAdmiral>
 				</options>
 			</li>
 			<li>
 				<kindDef>Combat</kindDef>
-				<commonality>65</commonality>
+				<commonality>150</commonality>
 				<options>
 					<AsariCrewMember>25</AsariCrewMember>
 					<AsariCommando>20</AsariCommando>
 					<AsariInfiltrator>15</AsariInfiltrator>
+					<AsariWallDestroyer>6</AsariWallDestroyer>
 					<AsariSupremeAdmiral>3</AsariSupremeAdmiral>
 				</options>
 			</li>

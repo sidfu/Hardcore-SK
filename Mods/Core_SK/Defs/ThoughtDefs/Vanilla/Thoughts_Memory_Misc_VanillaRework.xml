@@ -61,7 +61,7 @@
 		<durationDays>0.5</durationDays>
 		<stackLimit>1</stackLimit>
 		<nullifyingTraits>
-			<li>Tough</li>
+			<li>Hardened</li>
 		</nullifyingTraits>
 		<stages>
 			<li>
@@ -77,7 +77,7 @@
 		<durationDays>0.5</durationDays>
 		<stackLimit>1</stackLimit>
 		<nullifyingTraits>
-			<li>Tough</li>
+			<li>Hardened</li>
 		</nullifyingTraits>
 		<stages>
 			<li>
@@ -94,7 +94,7 @@
 		<durationDays>0.5</durationDays>
 		<stackLimit>1</stackLimit>
 		<nullifyingTraits>
-			<li>Tough</li>
+			<li>Hardened</li>
 		</nullifyingTraits>
 		<stages>
 			<li>
@@ -110,7 +110,7 @@
 		<durationDays>0.5</durationDays>
 		<stackLimit>1</stackLimit>
 		<nullifyingTraits>
-			<li>Tough</li>
+			<li>Hardened</li>
 		</nullifyingTraits>
 		<stages>
 			<li>
@@ -234,38 +234,42 @@
 
 	<ThoughtDef>
 		<defName>ButcheredHumanlikeCorpse</defName>
-		<durationDays>6.0</durationDays>
-		<stackLimit>5</stackLimit>
-		<stackedEffectMultiplier>0.25</stackedEffectMultiplier>
+		<durationDays>3.0</durationDays>
+		<stackLimit>30</stackLimit>
+		<stackedEffectMultiplier>0.92</stackedEffectMultiplier>
 		<nullifyingTraits>
 			<li>Psychopath</li>
 			<li>Bloodlust</li>
 			<li>Cannibal</li>
+			<li>Pragmatist</li>
+			<li>Villian</li>
 		</nullifyingTraits>
 		<stages>
 			<li>
 				<label>I butchered humanlike</label>
 				<description>I butchered someone up like an animal.</description>
-				<baseMoodEffect>-5</baseMoodEffect>
+				<baseMoodEffect>-3</baseMoodEffect>
 			</li>
 		</stages>
 	</ThoughtDef>
 
 	<ThoughtDef>
 		<defName>KnowButcheredHumanlikeCorpse</defName>
-		<durationDays>6.0</durationDays>
-		<stackLimit>1</stackLimit>
+		<durationDays>3.0</durationDays>
+		<stackLimit>30</stackLimit>
+		<stackedEffectMultiplier>0.88</stackedEffectMultiplier>
 		<nullifyingTraits>
 			<li>Psychopath</li>
 			<li>Bloodlust</li>
 			<li>Cannibal</li>
 			<li>Pragmatist</li>
+			<li>Villian</li>
 		</nullifyingTraits>
 		<stages>
 			<li>
 				<label>We butchered humanlike</label>
 				<description>We butchered someone up like an animal.</description>
-				<baseMoodEffect>-5</baseMoodEffect>
+				<baseMoodEffect>-3</baseMoodEffect>
 			</li>
 		</stages>
 	</ThoughtDef>
